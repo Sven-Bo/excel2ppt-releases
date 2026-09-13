@@ -20,7 +20,7 @@ The installer is currently unsigned. Windows or your organization's policy may p
 
 1. Open a blank workbook and save it.
 2. Click **Excel2PPT > Demo > Add demo sheet**. It adds sample data and a short tutorial, plus example rows in **PPT Setup**.
-3. In PPT Setup, keep one **Picture** row set to **Export = Yes**. Set the other rows to **No** for Free mode.
+3. The three picture examples are enabled and ready to export in Free. The optional Pro text row stays disabled.
 4. In **Settings**, choose **New presentation**, then save the settings.
 5. Click **Export**. Review the new PowerPoint file.
 
@@ -28,9 +28,9 @@ For your own workbook, click **Create setup**, select cells or a chart, and clic
 
 ## Find the example files
 
-Choose **Excel2PPT > Demo > Open demo workbook** to open the complete example, or **Open examples folder** to find its workbook and PowerPoint templates.
+Choose **Excel2PPT > Demo > Open demo workbook** to try a quarterly business review with fictional sales data, live calculations, native charts and five prepared export rows. It works in Free immediately. **Open examples folder** also contains a completed presentation and a matching optional Pro template. The workbook includes instructions for each. This is separate from the small tutorial that **Add demo sheet** inserts into your current workbook.
 
-On first use, the add-in copies the examples to **Documents > Excel2PPT > Examples > Demo**. Later clicks reopen your working copy and preserve your edits. Choose **Create fresh demo copy** to start again in a separate folder. The installer also offers **Open examples folder** after installation.
+On first use, the add-in copies the examples to **Documents > Excel2PPT > Examples > Business review**. Later clicks reopen your working copy and preserve your edits. Choose **Create fresh demo copy** to start again in a separate folder. The installer also offers **Open examples folder** after installation.
 
 ## Set up an export
 
@@ -47,9 +47,9 @@ Save the workbook to keep its setup. Settings lets you choose an output folder a
 
 ## Free and Pro
 
-**Free** exports one picture per operation to a new presentation, with setup, source discovery, positioning and Dimension Finder included. No watermark is added.
+**Free** exports up to five enabled picture rows per export to a new presentation, with setup, source discovery, positioning and Dimension Finder included. No watermark is added.
 
-**Pro and Team** unlock multiple items, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
+**Pro and Team** unlock larger exports, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
 
 Personal covers one user on up to three devices. Team covers up to 15 users on 15 devices in total. Both paid plans have the same features. Enter your 21-character purchase key under **License** to activate Pro.
 
