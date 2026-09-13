@@ -1,4 +1,4 @@
-# Excel2PPT 2.0
+# Excel2PPT Add-in 1.0.0
 
 Export Excel ranges, tables and charts to PowerPoint from a dedicated Excel ribbon. Your export setup stays in your workbook, which can remain an ordinary `.xlsx` file.
 
@@ -7,7 +7,7 @@ Export Excel ranges, tables and charts to PowerPoint from a dedicated Excel ribb
 ## Install
 
 1. Save your work and close Excel.
-2. Run **Excel2PPT-2.0-Setup.exe** and choose **Install Excel2PPT**.
+2. Run **Excel2PPT-Setup.exe** and choose **Install Excel2PPT**.
 3. Open Excel and select the **Excel2PPT** ribbon tab.
 
 Setup installs for your Windows user. Run a newer installer to update. Remove the add-in through Windows Installed Apps.

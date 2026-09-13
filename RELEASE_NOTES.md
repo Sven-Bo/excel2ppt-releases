@@ -1,4 +1,4 @@
-# Excel2PPT 2.0
+# Excel2PPT Add-in 1.0.0
 
 Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon.
 
@@ -14,7 +14,7 @@ Free exports one picture per operation to a new presentation. Pro adds multiple 
 
 ## Install or update
 
-Save your work, close Excel, and run **Excel2PPT-2.0-Setup.exe**. Reopen Excel and select the Excel2PPT ribbon. Run the new installer to update an earlier installation.
+Save your work, close Excel, and run **Excel2PPT-Setup.exe**. Reopen Excel and select the Excel2PPT ribbon. Run the new installer to update an earlier installation.
 
 Requires desktop Excel and PowerPoint on 64-bit Windows, with .NET Framework 4.8 or later. Both 32-bit and 64-bit Excel payloads are included. This installer is unsigned; Windows or organization policy may block it.
 
