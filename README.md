@@ -2,8 +2,6 @@
 
 Export Excel ranges, tables and charts to PowerPoint from a dedicated Excel ribbon. Your export setup stays in your workbook, which can remain an ordinary `.xlsx` file.
 
-**Test release:** Free export is available. Paid-plan activation is being prepared; the commercial launch and live activation verification are still pending.
-
 [Download the Windows installer](https://pythonandvba.com/go/excel2ppt-addin-download)
 
 ## Install
@@ -41,13 +39,15 @@ For your own workbook, click **Create setup**, select cells or a chart, and clic
 
 Save the workbook to keep its setup. Settings lets you choose an output folder and filter the source dropdowns. Local folders, locally synced OneDrive files and accessible network shares can be used. For workbooks opened from a web URL, choose an explicit local or network output folder.
 
-## Free and paid editions
+## Free and Pro
 
 **Free** exports one picture per operation to a new presentation, with setup, source discovery, positioning and Dimension Finder included. No watermark is added.
 
 **Pro and Team** unlock multiple items, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
 
-Personal covers one user on up to three devices. Team covers up to 15 users on 15 devices in total. Both paid plans have the same features. Once commercial activation is available, enter your 21-character purchase key under **License**. Successful activation supports up to seven days offline; the add-in normally checks daily when online.
+Personal covers one user on up to three devices. Team covers up to 15 users on 15 devices in total. Both paid plans have the same features. Enter your 21-character purchase key under **License** to activate Pro.
+
+[Get Excel2PPT Pro](https://pythonandvba.com/go/excel2ppt-addin-checkout)
 
 ## Help
 
