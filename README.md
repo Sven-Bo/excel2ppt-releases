@@ -49,7 +49,7 @@ Save the workbook to keep its setup. Settings lets you choose an output folder a
 
 **Free** exports up to five enabled picture rows per export to a new presentation, with setup, source discovery, positioning and Dimension Finder included. No watermark is added.
 
-**Pro and Team** unlock larger exports, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
+**Pro and Team** include unlimited pictures per export, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
 
 Personal covers one user on up to three devices. Team covers up to 15 users on 15 devices in total. Both paid plans have the same features. Enter your 21-character purchase key under **License** to activate Pro.
 
