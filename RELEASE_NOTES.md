@@ -4,9 +4,13 @@ Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. 
 
 - One workbook setup table with source dropdowns and export options.
 - Compact settings with full-width file paths and consistent Browse buttons.
+- Output names can be fixed or read from a single cell or named range, with a filename preview in Settings. Each export reads the current cell result. Missing cells, formula errors and invalid filenames show clear guidance before export.
+- Settings labels templates and active-presentation updates as Pro for Free users, explains the requirement immediately, and prevents saving those destinations until Pro is active.
+- Export checks identify the specific Pro feature in use, such as templates, editable charts, linked charts or text replacements, with a matching fix.
 - Free exports up to **five enabled picture rows** to a new presentation, with no watermark or time limit.
 - The mini tutorial and bundled business workbook work in Free by default.
 - A quarterly business review includes fictional sales data, live formulas and five prepared export rows across four slides. Two borderless native Excel charts share one slide, with a shorter Start here guide.
+- The demo PPT Setup table now has consistent borders, native alternating row shading and header filters, with wider placement columns.
 - A completed business presentation and matching optional Pro template replace the old template files in the installer.
 - Fixed the missing embedded images for the examples folder and fresh-copy commands in the Demo menu.
 - Dimension Finder with two-decimal placement values and corrected sizing after monitor DPI changes, without needing to click a button first.

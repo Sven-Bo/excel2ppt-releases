@@ -45,6 +45,8 @@ On first use, the add-in copies the examples to **Documents > Excel2PPT > Exampl
 
 Save the workbook to keep its setup. Settings lets you choose an output folder and filter the source dropdowns. Local folders, locally synced OneDrive files and accessible network shares can be used. For workbooks opened from a web URL, choose an explicit local or network output folder.
 
+For a dynamic filename, choose **Settings > Output name > From cell**. Enter a single-cell reference such as `'Report setup'!B3`, or a named range such as `Excel2PPT_OutputName`. Put your naming formula in that cell, for example `="Sales review - "&TEXT(TODAY(),"yyyy-mm")`. The preview shows the filename, and each export reads the cell's current result. Choose **Fixed name** to return to the name you typed previously. This works in Free and Pro. Existing files are preserved by adding a number to the new filename when needed.
+
 ## Free and Pro
 
 **Free** exports up to five enabled picture rows per export to a new presentation, with setup, source discovery, positioning and Dimension Finder included. No watermark is added.
@@ -52,6 +54,8 @@ Save the workbook to keep its setup. Settings lets you choose an output folder a
 **Pro and Team** include unlimited pictures per export, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
 
 Personal covers one user on up to three devices. Team covers up to 15 users on 15 devices in total. Both paid plans have the same features. Enter your 21-character purchase key under **License** to activate Pro.
+
+In Free, Settings marks Pro presentation options and explains the requirement before saving. Export checks also identify each Pro feature used by an existing workbook, with instructions for switching to Free-compatible options.
 
 [Get Excel2PPT Pro](https://pythonandvba.com/go/excel2ppt-addin-checkout)
 
