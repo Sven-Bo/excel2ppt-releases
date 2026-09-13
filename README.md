@@ -19,12 +19,18 @@ The installer is currently unsigned. Windows or your organization's policy may p
 ## Try your first export
 
 1. Open a blank workbook and save it.
-2. Click **Excel2PPT > Demo sheet**. It adds sample data and a short tutorial, plus example rows in **PPT Setup**.
+2. Click **Excel2PPT > Demo > Add demo sheet**. It adds sample data and a short tutorial, plus example rows in **PPT Setup**.
 3. In PPT Setup, keep one **Picture** row set to **Export = Yes**. Set the other rows to **No** for Free mode.
 4. In **Settings**, choose **New presentation**, then save the settings.
 5. Click **Export**. Review the new PowerPoint file.
 
 For your own workbook, click **Create setup**, select cells or a chart, and click **Add selection**. Source dropdowns also find tables, named ranges, charts and shapes. Click **Refresh sources** after creating or renaming these objects.
+
+## Find the example files
+
+Choose **Excel2PPT > Demo > Open demo workbook** to open the complete example, or **Open examples folder** to find its workbook and PowerPoint templates.
+
+On first use, the add-in copies the examples to **Documents > Excel2PPT > Examples > Demo**. Later clicks reopen your working copy and preserve your edits. Choose **Create fresh demo copy** to start again in a separate folder. The installer also offers **Open examples folder** after installation.
 
 ## Set up an export
 

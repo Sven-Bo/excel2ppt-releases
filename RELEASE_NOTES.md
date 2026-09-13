@@ -23,3 +23,9 @@ Automated logic, package and isolated dialog-layout checks passed. Live Office e
 ## License and Help update
 
 The license window now focuses on entering and activating a key, with no Free export-limit messages. Get Pro is the last ribbon action, after License. Help includes a blue Documentation icon opening the online guide. Free limits and the demo-file workflow are unchanged in this update.
+
+## Demo menu and working copies
+
+Demo now offers Add demo sheet, Open demo workbook, Open examples folder and Create fresh demo copy. Example workbooks and PowerPoint templates are copied together into Documents > Excel2PPT > Examples. Reopening preserves edits; fresh copies use separate folders. The installer opens the same examples location. Missing files produce clear recovery instructions.
+
+102 logic/file-handling checks, 22 package checks, and isolated add-in/installer layout checks passed. Free/Pro limits remain unchanged.
