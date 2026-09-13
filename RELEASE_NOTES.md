@@ -19,3 +19,7 @@ Save your work, close Excel, and run **Excel2PPT-Setup.exe**. Reopen Excel and s
 Requires desktop Excel and PowerPoint on 64-bit Windows, with .NET Framework 4.8 or later. Both 32-bit and 64-bit Excel payloads are included. This installer is unsigned; Windows or organization policy may block it.
 
 Automated logic, package and isolated dialog-layout checks passed. Live Office export, clean-machine installation and purchase/refund verification have not been performed for this build.
+
+## License and Help update
+
+The license window now focuses on entering and activating a key, with no Free export-limit messages. Get Pro is the last ribbon action, after License. Help includes a blue Documentation icon opening the online guide. Free limits and the demo-file workflow are unchanged in this update.
