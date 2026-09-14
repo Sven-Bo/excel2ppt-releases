@@ -5,7 +5,7 @@ Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. 
 - One workbook setup table with source dropdowns and export options.
 - Compact settings with full-width file paths and consistent Browse buttons.
 - New slide layout has hover guidance explaining PowerPoint placeholders and why Blank is recommended for Excel exports.
-- About in the ribbon Help group shows the installed version, product information and documentation, with a matching blue information icon.
+- Documentation and About sit together in the ribbon Help group. About includes the installed version, documentation, support and website links, plus a copyright credit for Bosau Digital L.L.C.
 - Saved-export success messages include Open folder alongside Done, while keeping review warnings visible.
 - Output names can be fixed or read from a single cell or named range, with a filename preview in Settings. Each export reads the current cell result. Missing cells, formula errors and invalid filenames show clear guidance before export.
 - Settings labels templates and active-presentation updates as Pro for Free users, explains the requirement immediately, and prevents saving those destinations until Pro is active.

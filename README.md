@@ -65,7 +65,7 @@ In Free, Settings marks Pro presentation options and explains the requirement be
 
 ## Help
 
-Choose **About** in the Excel2PPT ribbon to see the installed version and open the documentation. It is available even when no workbook is open.
+Choose **About**, next to **Documentation** in the Excel2PPT ribbon, to see the installed version and open documentation, support or the PythonAndVBA website. It is available even when no workbook is open.
 
 Expected setup issues show instructions for fixing them. Unexpected failures include technical details you can copy when contacting support. Do not post license keys or private workbook data in public issues.
 
