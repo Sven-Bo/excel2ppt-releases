@@ -21,7 +21,7 @@ Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. 
 - Export preflight, clear setup guidance and highlighted review warnings.
 - Free/Pro comparison now labels Pro picture exports Unlimited, with a gold upgrade crown and a single Get Pro checkout.
 - License activation with Personal and Team device allowances.
-- Active licenses now have a green status panel. The encrypted saved key is restored masked when reopening License, with an option to reveal it. Deactivate license replaces Use Free and confirms removal from this computer.
+- Active licenses show a simple green License active panel, without hardcoded user or device allowances. The encrypted saved key is restored masked when reopening License, with an option to reveal it. Deactivate license replaces Use Free and confirms removal from this computer.
 - Fixed overlapping license-window controls after activation. Updates now return to the dialog's own UI thread and DPI context, and unsuccessful checks keep the entered key available for retry.
 - License checks use a dedicated TLS 1.2 connection so older Excel host networking settings do not block valid keys. Connection failures show verification guidance instead of implying the key is invalid.
 
