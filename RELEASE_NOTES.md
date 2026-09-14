@@ -2,6 +2,7 @@
 
 Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. This update remains version **1.0.0**.
 
+- Check for updates from About, with optional daily automatic checks and an Update available ribbon button. Automatic checks start off. Downloads and installation remain your choice.
 - One workbook setup table with source dropdowns and export options.
 - Compact settings with full-width file paths and consistent Browse buttons.
 - New slide layout has hover guidance explaining PowerPoint placeholders and why Blank is recommended for Excel exports.

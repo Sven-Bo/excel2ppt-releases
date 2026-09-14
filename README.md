@@ -70,3 +70,7 @@ Choose **About**, next to **Documentation** in the Excel2PPT ribbon, to see the 
 Expected setup issues show instructions for fixing them. Unexpected failures include technical details you can copy when contacting support. Do not post license keys or private workbook data in public issues.
 
 This repository distributes the compiled installer, checksums and release notes. Application source code is not published. Third-party notices are included in the installation.
+
+## Check for updates
+
+Open **Excel2PPT > About > Check for updates**. You can enable automatic checks there if you want Excel2PPT to look for a new release once a day. When a newer version is available, choose **Download update**, save your work and close Excel, then run the installer. Your workbooks, license and preferences are kept.
