@@ -45,6 +45,10 @@ On first use, the add-in copies the examples to **Documents > Excel2PPT > Exampl
 
 Save the workbook to keep its setup. Settings lets you choose an output folder and filter the source dropdowns. Local folders, locally synced OneDrive files and accessible network shares can be used. For workbooks opened from a web URL, choose an explicit local or network output folder.
 
+**New slide layout** controls PowerPoint's title and content placeholders when creating a new presentation. **Blank** adds none and is recommended for Excel exports. Your setup rows still control object positioning; templates keep their existing slide layouts. Hover over the setting for guidance.
+
+After saving an export, click **Open folder** in the success message to find the presentation. When updating an active presentation, review and save the changes in PowerPoint instead.
+
 For a dynamic filename, choose **Settings > Output name > From cell**. Enter a single-cell reference such as `'Report setup'!B3`, or a named range such as `Excel2PPT_OutputName`. Put your naming formula in that cell, for example `="Sales review - "&TEXT(TODAY(),"yyyy-mm")`. The preview shows the filename, and each export reads the cell's current result. Choose **Fixed name** to return to the name you typed previously. This works in Free and Pro. Existing files are preserved by adding a number to the new filename when needed.
 
 ## Free and Pro
@@ -60,6 +64,8 @@ In Free, Settings marks Pro presentation options and explains the requirement be
 [Get Excel2PPT Pro](https://pythonandvba.com/go/excel2ppt-addin-checkout)
 
 ## Help
+
+Choose **About** in the Excel2PPT ribbon to see the installed version and open the documentation. It is available even when no workbook is open.
 
 Expected setup issues show instructions for fixing them. Unexpected failures include technical details you can copy when contacting support. Do not post license keys or private workbook data in public issues.
 
