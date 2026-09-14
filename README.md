@@ -73,4 +73,4 @@ This repository distributes the compiled installer, checksums and release notes.
 
 ## Check for updates
 
-Open **Excel2PPT > Help > Check for updates** to check immediately. Automatic checks are on by default and look for a new release once a day. You can switch them off in that window; your saved choice is kept. When a newer version is available, choose **Download update**, save your work and close Excel, then run the installer. Your workbooks, license and preferences are kept.
+Open **Excel2PPT > About > Check for updates** to check immediately. Automatic checks are on by default and look for a new release once a day. You can switch them off in that window; your saved choice is kept. When a newer version is available, choose **Download update**, save your work and close Excel, then run the installer. Your workbooks, license and preferences are kept.

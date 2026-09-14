@@ -2,11 +2,11 @@
 
 Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. This update remains version **1.0.0**.
 
-- Check for updates directly from the compact Help menu. The check starts immediately. The window has a single primary action beside Close, with daily automatic checks and a small Update available ribbon button. Automatic checks start on. Saved preferences are respected. Downloads and installation remain your choice.
+- Check for updates from About in the Resources group. The check starts immediately. The window has a single primary action beside Close, with daily automatic checks and an Update available ribbon button. Automatic checks start on. Saved preferences are respected. Downloads and installation remain your choice.
 - One workbook setup table with source dropdowns and export options.
 - Compact settings with full-width file paths and consistent Browse buttons.
 - New slide layout has hover guidance explaining PowerPoint placeholders and why Blank is recommended for Excel exports.
-- Documentation, Check for updates and About sit in a compact Help dropdown. Help and Demo use matching compact dropdowns stacked in one Resources group. About includes the installed version, documentation, support and website links, plus a copyright credit for Bosau Digital L.L.C.
+- Large ribbon icons are restored. Demo has its own Examples group, and Resources sits at the far right with Documentation and About. About includes the installed version, documentation, support and website links, plus a copyright credit for Bosau Digital L.L.C.
 - Saved-export success messages include Open folder alongside Done, while keeping review warnings visible.
 - Output names can be fixed or read from a single cell or named range, with a filename preview in Settings. Each export reads the current cell result. Missing cells, formula errors and invalid filenames show clear guidance before export.
 - Settings labels templates and active-presentation updates as Pro for Free users, explains the requirement immediately, and prevents saving those destinations until Pro is active.
