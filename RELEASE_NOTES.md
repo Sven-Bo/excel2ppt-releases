@@ -21,6 +21,8 @@ Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. 
 - Export preflight, clear setup guidance and highlighted review warnings.
 - Free/Pro comparison now labels Pro picture exports Unlimited, with a gold upgrade crown and a single Get Pro checkout.
 - License activation with Personal and Team device allowances.
+- Fixed overlapping license-window controls after activation. Updates now return to the dialog's own UI thread and DPI context, and unsuccessful checks keep the entered key available for retry.
+- License checks use a dedicated TLS 1.2 connection so older Excel host networking settings do not block valid keys. Connection failures show verification guidance instead of implying the key is invalid.
 
 Pro adds unlimited pictures per export, templates, editable and linked charts, text replacement and updating the open presentation. Personal and Team have the same features. Exceeding the Free limit stops the export and explains how to reduce the selection or upgrade.
 
