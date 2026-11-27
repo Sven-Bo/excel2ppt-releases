@@ -1,4 +1,13 @@
-# Excel2PPT Add-in 1.0.0
+# Excel2PPT Add-in 1.0.1
+
+Fix release for **Editable chart** exports.
+
+- **Editable chart** now reliably pastes charts as native PowerPoint charts with the workbook embedded, so **Edit Data** works without the source file. Before, the export could stop with "PowerPoint did not confirm one completed chart paste" or "PowerPoint linked this chart instead of embedding it", most often on the second chart of a slide.
+- Picture, Linked chart and text exports are unchanged.
+
+Save your work, close Excel, and run **Excel2PPT-Setup.exe** to update. Your setup tables and settings are kept.
+
+## 1.0.0
 
 Export Excel ranges, tables and charts to PowerPoint from the Excel2PPT ribbon. This update remains version **1.0.0**.
 

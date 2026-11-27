@@ -1,4 +1,4 @@
-# Excel2PPT Add-in 1.0.0
+# Excel2PPT Add-in 1.0.1
 
 Export Excel ranges, tables and charts to PowerPoint from a dedicated Excel ribbon. Your export setup stays in your workbook, which can remain an ordinary `.xlsx` file.
 
@@ -57,7 +57,7 @@ For a dynamic filename, choose **Settings > Output name > From cell**. Enter a s
 
 **Pro and Team** include unlimited pictures per export, PowerPoint templates, editable and linked charts, text replacement and updating the active presentation. Active-presentation export changes the open deck directly; review it and save in PowerPoint.
 
-Personal covers one user on up to three devices. Team covers up to 15 users on 15 devices in total. Both paid plans have the same features. Enter your 21-character purchase key under **License** to activate Pro.
+A Single User license (Personal) covers one person on up to three devices. A Team license covers everyone in one business on up to 15 devices in total. Both paid plans have the same features. Enter your 21-character purchase key under **License** to activate Pro.
 
 In Free, Settings marks Pro presentation options and explains the requirement before saving. Export checks also identify each Pro feature used by an existing workbook, with instructions for switching to Free-compatible options.
 
