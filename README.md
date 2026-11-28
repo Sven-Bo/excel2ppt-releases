@@ -1,4 +1,4 @@
-# Excel2PPT Add-in 1.0.1
+# Excel2PPT Add-in 1.0.2
 
 Export Excel ranges, tables and charts to PowerPoint from a dedicated Excel ribbon. Your export setup stays in your workbook, which can remain an ordinary `.xlsx` file.
 
@@ -24,7 +24,7 @@ The installer is currently unsigned. Windows or your organization's policy may p
 4. In **Settings**, choose **New presentation**, then save the settings.
 5. Click **Export**. Review the new PowerPoint file.
 
-For your own workbook, click **Create setup**, select cells or a chart, and click **Add selection**. Source dropdowns also find tables, named ranges, charts and shapes. Click **Refresh sources** after creating or renaming these objects.
+For your own workbook, click **Create setup**. It makes a table with five empty rows. Select cells or a chart and click **Add selection** to fill the next empty row, or click **Add row** and pick a source from the Source dropdown. You can also just type below the table, or press Tab in the last Export cell, to add rows. Source dropdowns also find tables, named ranges, charts and shapes. Click **Refresh sources** after creating or renaming these objects.
 
 ## Find the example files
 
@@ -42,6 +42,8 @@ On first use, the add-in copies the examples to **Documents > Excel2PPT > Exampl
 | Left, Top, Height, Width | Optional dimensions in points. Leave blank to fit automatically. Dimension Finder can copy these from a selected PowerPoint object. |
 | Paste as | Picture, Editable chart, Linked chart, Text from cell, or Fixed text. Editable and linked modes require charts. |
 | Export | Yes to include the row; No to skip it. |
+
+Rows with nothing filled in except Paste as and Export are ignored, so empty rows never block an export or count toward the Free limit. Two hidden columns (A:B) keep an ID and a proportions setting for each row; tables made by earlier versions are updated the first time you click Setup, Refresh sources, Add selection or Add row.
 
 Save the workbook to keep its setup. Settings lets you choose an output folder and filter the source dropdowns. Local folders, locally synced OneDrive files and accessible network shares can be used. For workbooks opened from a web URL, choose an explicit local or network output folder.
 

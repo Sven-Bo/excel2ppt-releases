@@ -1,4 +1,18 @@
-# Excel2PPT Add-in 1.0.1
+# Excel2PPT Add-in 1.0.2
+
+Easier rows in PPT Setup, and a fix for **Add selection**.
+
+- New **Add row** button next to Add selection: adds an empty row and selects its Source cell, so you pick the source from the dropdown.
+- **Create setup** now starts with five empty rows. **Add selection** fills the next empty row before adding a new one. Empty rows are ignored by Export and don't count toward the Free limit.
+- Add rows the Excel way too: type or paste below the table, or press Tab in the last Export cell. These rows get the dropdowns and work like rows added by the buttons.
+- The two hidden internal columns moved from J:K to A:B, so Tab from Export adds a row instead of jumping into hidden cells. Setup tables from 1.0.0 and 1.0.1 keep working and are updated the first time you click Setup, Refresh sources, Add selection or Add row.
+- A hint above the table: "Add rows with Add selection or Add row, or just type below the table."
+- **Add selection** no longer stops with "Couldn't finish the workbook operation (0x800A03EC)" when a chart or shape is selected. Excel refuses to update the PPT Setup dropdowns while an object is selected; Excel2PPT now works from a cell first. **Refresh sources** with a chart selected is fixed too.
+- If the table was narrowed with its resize handle, Setup, Refresh sources and both Add buttons restore the hidden columns instead of showing "Index was outside the bounds of the array".
+
+Save your work, close Excel, and run **Excel2PPT-Setup.exe** to update. Your setup tables and settings are kept.
+
+## 1.0.1
 
 Fix release for **Editable chart** exports.
 
